@@ -1,5 +1,5 @@
 # Nightbot-Tarkov-Price-Command
-Command that fetches price on nightbot using tarkov-tools.com
+Command that fetches price on Nightbot using [tarkov-tools.com](https://tarkov-tools.com/)
 
 # Instructions
 Simply go to [nightbot.tv](https://nightbot.tv/commands/custom)  
